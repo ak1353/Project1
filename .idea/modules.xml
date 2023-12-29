@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project for learning.iml" filepath="$PROJECT_DIR$/Project for learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timus/timus.iml" filepath="$PROJECT_DIR$/timus/timus.iml" />
+    </modules>
+  </component>
+</project>
